@@ -9,7 +9,6 @@ __pycache__/
 # Data files (too large)
 data/
 project-b-react/data/
-project-a-vision/
 outputs/
 training_log.txt
 mlx_ready_dataset/
