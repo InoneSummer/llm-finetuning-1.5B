@@ -12,3 +12,6 @@ project-b-react/data/
 project-a-vision/
 outputs/
 training_log.txt
+mlx_ready_dataset/
+mlx_ready_dataset_extreme/
+mlx_ready_dataset_truncated/
